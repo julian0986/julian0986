@@ -1,4 +1,18 @@
-### Hi there 👋
+# !Hola¡ Soy Julian Calle 👋
+
+> Soy un apasionado por la tecnólogia tengo un experiencia en desarrollo web, manejo de CMS Wordpress, WooCommerce, Html5, CSS3, SASS, JavaScript. 
+
+ ## Feliz en el Bootcamp de Guillermo Rodas👌
+
+> ### Comandos Aprendidos en la terminal.
+
+| Comando | Descripción |
+|:--------|:-------------|
+|ls       | Muestra lo que hay en un directorio |
+|pwd      | Muestra el directorio actual. |
+|cd       | Cambia de directorio|
+|cat      | Muesta lo que tiene el archivo. |
+|mkdir    | se usa para crear carpetas |
 
 <!--
 **julian0986/julian0986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
