@@ -17,7 +17,11 @@
 ### Creación de Alias
 La creación y ultilización de los alias son muy importantes y nos ayuda a la optimización del tiempo cuando estamos trabajando con linux. 
 
-|Alias |
+| Alias | Descripción |
+|:------|-------------|
+|alias cl="clear"|Limpia la consola|
+|alias l="ls"|Lista lo que hay en un directorio|
+
 
 <!--
 **julian0986/julian0986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
